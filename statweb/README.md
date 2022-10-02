@@ -1,0 +1,2 @@
+# statweb
+Statische websites
