@@ -1,0 +1,21 @@
+ol {
+    background-color:  pink;
+    padding: 10px 20px 10px 20px;
+    margin: 15px 0px 5px 0px;
+}
+
+ol li {
+    background-color: #ffe5e5;
+    padding: 10px 20px 5px 5px;
+}
+
+ul {
+    background-color: dodgerblue;
+    padding: 10px 20px 5px 5px;
+    margin: 15px 0px 5px 0px;
+}
+ul li {
+    background-color: rgb(190, 190, 255);
+    padding: 10px 20px 5px 5px;
+    margin: 15px 0px 5px 0px;
+}
