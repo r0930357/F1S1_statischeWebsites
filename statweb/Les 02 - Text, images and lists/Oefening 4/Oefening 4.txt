@@ -1,6 +1,0 @@
-Dummyteksten voor een website in ontwikkeling genereer je via Visual Studio Code of https://www.lipsum.com, maar je kunt ook random afbeeldingen genereren die je tijdens het ontwikkelen van je website gebruikt tot de klant definitief beeldmateriaal aanlevert. Er zijn verschillende sites die daarbij kunnen helpen. 
-Tips:
--	https://www.Lorempixel.com
--	https://www.Placeholder.com
-Tip: Wil je random tekst in VSC? https://uhded.com/automatic-generate-lorem-vscode
-In deze oefening verken je de mogelijkheden. Test alles eens uit!
